@@ -1,0 +1,4 @@
+{
+  "logLevel": "ERROR",
+  "appender": "console"
+}
