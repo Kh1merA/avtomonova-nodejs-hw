@@ -1,0 +1,5 @@
+{
+  "logLevel": "ERROR",
+  "appender": "console,file",
+  "formatter": "json"
+}
