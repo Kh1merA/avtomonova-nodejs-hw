@@ -1,0 +1,8 @@
+{"date":1710102737019,"level":"INFO","category":"app.js","message":[{"blue":"blue","yellow":"yellow"}]}
+{"date":1710102737020,"level":"INFO","category":"app.js","message":["Data",{"MVP amount":11},"User:",{"name":"Alex","team":"NAVI"},"S1mple is the best"]}
+{"date":1710102737020,"level":"WARN","category":"app.js","message":[{"apple":"apple","pear":"pear"}]}
+{"date":1710102737020,"level":"ERROR","category":"app.js","message":["ERROR occur: My log"]}
+{"date":1710102737020,"level":"DEBUG","category":"app.js","message":[{"blue":"blue","yellow":"yellow"}]}
+{"date":1710102737020,"level":"TRACE","category":"app.js","message":[{"apple":"apple","pear":"pear"}]}
+{"date":1710102737020,"level":"INFO","category":"handler.js","message":["First operand 3"]}
+{"date":1710102737020,"level":"INFO","category":"handler.js","message":["Second operand 5"]}
