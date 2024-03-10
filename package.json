@@ -11,5 +11,8 @@
   "type": "module",
   "dependencies": {
     "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
   }
 }
