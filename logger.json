@@ -1,5 +1,5 @@
 {
   "logLevel": "INFO",
-  "appender": "console",
+  "appender": "console,network",
   "formatter": "json"
 }

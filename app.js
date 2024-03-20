@@ -15,3 +15,4 @@ log.debug(color);
 log.trace(fruit);
 
 add(3, 5);
+
